@@ -1,0 +1,13 @@
+{
+  "name": "angular-bikecat",
+  "description": "Test app from AngularJS",
+  "main": "index.html",
+  "authors": [
+    "CelXNaga"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/CelXNaga/angular-bikecat",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "angular-bikecat",
+  "version": "1.0.0",
+  "description": "Test app from AngularJS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CelXNaga/angular-bikecat.git"
+  },
+  "author": "CelXNaga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CelXNaga/angular-bikecat/issues"
+  },
+  "homepage": "https://github.com/CelXNaga/angular-bikecat#readme"
+}
